@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zero2Mars
-- 👀 I’m interested in ... web development, UI & UX, A.I.
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... My Foundations Website
-- 📫 How to reach me ... joshua.sexton@geekimpulse.com
+- 👀 I’m interested in ... web development, UI & UX, A.I. and Data Analytics
+- 🌱 I’m currently learning ... Python Automation
+- :raised_hands: Certified Data Analyst Through Google Links to certifications upon request
 
 <!---
 Zero2Mars/Zero2Mars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
